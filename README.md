@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajpatel5501
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Machine Learning projects
+- 💞️ I’m looking to collaborate on Machine Learning, Python, Search Engine Evaluator projects
 - 
 
 <div id="header" align="center">
@@ -28,7 +28,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Data Analyst <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Data Analyst and a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 
 
