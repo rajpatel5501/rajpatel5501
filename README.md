@@ -53,7 +53,7 @@ I am a Data Analyst and a Python Developer <img src="https://media.giphy.com/med
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb"  alt="mongodb" width="40" height="40"/>&nbsp;
   [![Casandra](https://i.imgur.com/Gw68kZ4.png)](http://cassandra.apache.org/)&nbsp;
-  <img src="https://github.com/gilbarbara/logos/blob/master/logos/postman.svg" title="heroku" alt="postman" width="150" height="40"/>&nbsp;
+  <img src="https://github.com/gilbarbara/logos/blob/92bb74e98bca1ea1ad794442676ebc4e75038adc/logos/postman.svg" title="heroku" alt="postman" width="150" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
   
